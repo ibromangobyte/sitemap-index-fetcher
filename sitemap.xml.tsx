@@ -38,7 +38,7 @@ export const getServerSideProps: GetServerSideProps = async ({ res }) => {
      * 
      */
     const {itemId, language, templateId} = new Options(
-        "EF9D6CD9-03AD-45B6-8417-FEDA73BD4DE4", "en", "512F1276-432B-44EB-8CE8-A7A8BE538773"
+        "00000000-0000-0000-0000-000000000000", "en", "00000000-0000-0000-0000-000000000000"
     );
 
     /**
@@ -57,6 +57,7 @@ export const getServerSideProps: GetServerSideProps = async ({ res }) => {
             },
         };
     }
+    
     /**
      * 
      */        
